@@ -177,25 +177,25 @@ section {
   section h2 {
     font-size: 50px; }
 
-section.download {
+section.overview {
   padding: 150px 0;
   position: relative; }
-  section.download h2 {
+  section.overview h2 {
     margin-top: 0;
     font-size: 50px; }
-  section.download .badges .badge-link {
+  section.overview .badges .badge-link {
     display: block;
     margin-bottom: 25px; }
-    section.download .badges .badge-link:last-child {
+    section.overview .badges .badge-link:last-child {
       margin-bottom: 0; }
-    section.download .badges .badge-link img {
+    section.overview .badges .badge-link img {
       height: 60px; }
     @media (min-width: 768px) {
-      section.download .badges .badge-link {
+      section.overview .badges .badge-link {
         display: inline-block;
         margin-bottom: 0; } }
   @media (min-width: 768px) {
-    section.download h2 {
+    section.overview h2 {
       font-size: 70px; } }
 
 section.features .section-heading {
