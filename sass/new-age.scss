@@ -218,6 +218,9 @@ section.overview {
         margin-top: 0;
         font-size: 50px;
     }
+    img {
+      width: 250px;
+    }
     .badges {
         .badge-link {
             display: block;
@@ -237,6 +240,9 @@ section.overview {
     @media(min-width: 768px) {
         h2 {
             font-size: 70px;
+        }
+        img {
+          width: 400px;
         }
     }
 }

@@ -183,6 +183,8 @@ section.overview {
   section.overview h2 {
     margin-top: 0;
     font-size: 50px; }
+  section.overview img {
+    width: 250px; }
   section.overview .badges .badge-link {
     display: block;
     margin-bottom: 25px; }
@@ -196,7 +198,9 @@ section.overview {
         margin-bottom: 0; } }
   @media (min-width: 768px) {
     section.overview h2 {
-      font-size: 70px; } }
+      font-size: 70px; }
+    section.overview img {
+      width: 400px; } }
 
 section.features .section-heading {
   margin-bottom: 100px; }
