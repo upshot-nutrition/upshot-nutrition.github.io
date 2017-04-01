@@ -327,7 +327,8 @@ footer {
 .btn-outline {
   color: white;
   border-color: white;
-  border: 1px solid; }
+  border: 1px solid;
+  background-color: rgba(0, 0, 0, 0.3); }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
     background-color: #00d7f6;
