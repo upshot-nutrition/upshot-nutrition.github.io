@@ -197,9 +197,9 @@ section.overview {
         display: inline-block;
         margin-bottom: 0; } }
   @media (min-width: 768px) {
-    section.overview h2 {
+    section.overview .badges2 h2 {
       font-size: 70px; }
-    section.overview img {
+    section.overview .badges2 img {
       width: 400px; } }
 
 section.features .section-heading {

@@ -237,12 +237,14 @@ section.overview {
             }
         }
     }
-    @media(min-width: 768px) {
-        h2 {
-            font-size: 70px;
-        }
-        img {
-          width: 400px;
+    .badges2 {
+        @media(min-width: 768px) {
+            h2 {
+                font-size: 70px;
+            }
+            img {
+              width: 400px;
+            }
         }
     }
 }
